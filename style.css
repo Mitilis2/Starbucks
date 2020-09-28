@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: 'Martel Sans', sans-serif;
+    background-color:#1f3933;
+    
+}
+
+.list {
+    background-color: white;
+    list-style-type: none;
+    display: flex;
+    margin-top: 5em;
+    justify-content: space-evenly;
+    border-right: 1px solid red;
+}

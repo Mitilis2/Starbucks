@@ -1,2 +1,2 @@
-Starbucks Clone site 
+Starbucks Clone site;
 Worked on with Mike

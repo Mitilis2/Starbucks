@@ -12,7 +12,21 @@ body {
     background-color: white;
     list-style-type: none;
     display: flex;
-    margin-top: 5em;
     justify-content: space-evenly;
     border-right: 1px solid red;
+}
+
+.topbar {
+    background-color:#006341;
+    display: flex;
+}
+
+#rewards {
+    color: white;
+    background-color: #1f3933;
+    text-decoration: underline;
+}
+
+button {
+    float: right;
 }
